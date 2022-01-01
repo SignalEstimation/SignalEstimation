@@ -1,5 +1,5 @@
-- 👋 Hi, I’m interested in approaches for estimating useful information from the real world signals and hence this repo is names as SignalEstimation.
-- 🌱 I’m currently learning methods in signal estimation and detection
+- 👋 Hi, I’m interested in approaches for extracting useful information from the real world signals and hence the name Signal Estimation.
+- 🌱 I’m currently working on graphical Bayesian learning networks
 - 💞️ I’m looking to collaborate on various aspects of signal estimation
 - 📫 Please reach me at usefulrpacks@gmail.com
 
